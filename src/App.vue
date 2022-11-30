@@ -96,7 +96,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/assets/images/emc.png"
+                     src="./src/images/emc.png"
                      cover
                    ></v-img>
                    <v-text >электронные медицинские карты</v-text>
@@ -105,7 +105,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/assets/images/med2.png"
+                     src="./src/images/med2.png"
                      cover
                    ></v-img>
                    <v-text >Цепочки поставок и борьба с контрафактом</v-text>
@@ -114,7 +114,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/assets/images/med3.png"
+                     src="./src/images/med3.png"
                      cover
                    ></v-img>
                     <v-text >Клинические и биомедицинские исследования</v-text>
@@ -123,7 +123,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/assets/images/med4.png"
+                     src="./src/images/med4.png"
                      cover
                    ></v-img>
                    <v-text>Удаленный мониторинг пациента</v-text>
@@ -132,7 +132,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/assets/images/med5.png"
+                     src="./src/images/med5.png"
                      cover
                    ></v-img>
                    <v-text>Распределение донорских органов</v-text>
