@@ -43,14 +43,14 @@
              <v-img
                :aspect-ratio="aspectRatio"
                :width="width"
-               src="./src/assets/images/block.jpg"
+               src="./images/block.jpg"
                cover
              ></v-img>
              <h2>Сравнение web2 и web3</h2>
              <v-img
                :aspect-ratio="aspectRatio"
                :width="width"
-               src="./src/assets/images/web3.png"
+               src="./images/web3.png"
                cover
              ></v-img>
               <div>
@@ -96,7 +96,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/images/emc.png"
+                     src="./images/emc.png"
                      cover
                    ></v-img>
                    <v-text >электронные медицинские карты</v-text>
@@ -105,7 +105,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/images/med2.png"
+                     src="./images/med2.png"
                      cover
                    ></v-img>
                    <v-text >Цепочки поставок и борьба с контрафактом</v-text>
@@ -114,7 +114,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/images/med3.png"
+                     src="./images/med3.png"
                      cover
                    ></v-img>
                     <v-text >Клинические и биомедицинские исследования</v-text>
@@ -123,7 +123,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/images/med4.png"
+                     src="./images/med4.png"
                      cover
                    ></v-img>
                    <v-text>Удаленный мониторинг пациента</v-text>
@@ -132,7 +132,7 @@
                    <v-img
                      :aspect-ratio="aspectRatio"
                      :width="width"
-                     src="./src/images/med5.png"
+                     src="./images/med5.png"
                      cover
                    ></v-img>
                    <v-text>Распределение донорских органов</v-text>
